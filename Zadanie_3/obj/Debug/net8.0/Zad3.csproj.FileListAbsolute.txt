@@ -1,0 +1,14 @@
+c:\Users\Vouso\source\repos\Zad3\bin\Debug\net8.0\Zad3.exe
+c:\Users\Vouso\source\repos\Zad3\bin\Debug\net8.0\Zad3.deps.json
+c:\Users\Vouso\source\repos\Zad3\bin\Debug\net8.0\Zad3.runtimeconfig.json
+c:\Users\Vouso\source\repos\Zad3\bin\Debug\net8.0\Zad3.dll
+c:\Users\Vouso\source\repos\Zad3\bin\Debug\net8.0\Zad3.pdb
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.AssemblyInfoInputs.cache
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.AssemblyInfo.cs
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.csproj.CoreCompileInputs.cache
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.dll
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\refint\Zad3.dll
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.pdb
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\Zad3.genruntimeconfig.cache
+c:\Users\Vouso\source\repos\Zad3\obj\Debug\net8.0\ref\Zad3.dll
